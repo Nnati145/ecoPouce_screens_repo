@@ -1,0 +1,10 @@
+{
+    "login_string": "Login",
+    "sign_in_string": "Sign in",
+    "email_address_string": "E-mail",
+    "password_string": "Password",
+    "login_submit_string": "Login",
+    "login_error_string": "Email or password are not corrects",
+    "hint_email_string": "Enter your email address",
+    "hint_password_string": "Enter your password"
+}
